@@ -2,9 +2,13 @@ body {
     background-color: rgb(252, 240, 222);
     font-family: "Prompt", sans-serif;
 }
+
 h1 {
+    text-decoration: underline overline;
+}
+
+h1, h2, h3 {
     color: rgba(112, 74, 16, 0.637);
-    font-weight: bold;
 }
 
 img {
