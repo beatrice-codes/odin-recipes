@@ -1,3 +1,17 @@
 body {
     background-color: rgb(252, 240, 222);
+    font-family: "Prompt", sans-serif;
+}
+h1 {
+    color: rgba(112, 74, 16, 0.637);
+    font-weight: bold;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.resize {
+    width: 500px;
+    height: auto;
 }
